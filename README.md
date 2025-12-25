@@ -59,7 +59,6 @@ The SDK can be configured via constructor arguments or environment variables:
 | `base_url` | `ECHOINTEL_API_URL` | `https://ai.echosistema.live` |
 | `customer_api_id` | `ECHOINTEL_CUSTOMER_API_ID` | - |
 | `secret` | `ECHOINTEL_SECRET` | - |
-| `admin_secret` | `ECHOINTEL_ADMIN_SECRET` | - |
 | `timeout` | `ECHOINTEL_TIMEOUT` | `30` |
 
 ### Using Environment Variables
